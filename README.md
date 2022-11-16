@@ -1,1 +1,1 @@
-# capybara-ruby-browserstack
+# capybara-browserstack
