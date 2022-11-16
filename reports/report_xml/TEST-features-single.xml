@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="0" errors="0" skipped="0" tests="1" time="10.974409" name="Google's Search Functionality">
+<testcase classname="Google's Search Functionality" name="Can find search results" time="10.974409">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+</testsuite>
